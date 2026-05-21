@@ -31,7 +31,7 @@ body {
 header {
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    height: 110px;
+    height: 125px;
     padding-top: 15px;
 }
 header > h1 {
@@ -157,7 +157,7 @@ aside > h3 {
 }
 aside > ul {
     list-style-position: inside;
-    font-size: 0.9em;
+    font-size: 0.8em;
     columns: 2;
     list-style-type: '\2714\00A0';
     margin-left: 5px;

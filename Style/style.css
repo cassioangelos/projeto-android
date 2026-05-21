@@ -31,15 +31,15 @@ body {
 header {
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    height: 180px;
+    height: 150px;
     padding-top: 5px;
 }
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 1.5em;
+    font-size: 1.8em;
     margin-bottom: 10px;
-    padding-top: 5px;
+    padding-top: 8px;
     text-shadow: 4px 4px 10px black;
 }
 header > p {

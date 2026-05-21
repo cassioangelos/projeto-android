@@ -31,13 +31,13 @@ body {
 header {
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    height: 150px;
-    padding-top: 30px;
+    height: 200px;
+    padding-top: 10px;
 }
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 3em;
+    font-size: 1.5em;
     margin-bottom: 20px;
     text-shadow: 4px 4px 10px black;
 }

@@ -159,7 +159,7 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
     list-style-type: '\2714\00A0';
-    margin-left: 10px;
+    margin-left: 5px;
 }
 footer {
     background-color: var(--cor5);

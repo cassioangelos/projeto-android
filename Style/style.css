@@ -31,15 +31,15 @@ body {
 header {
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    height: 150px;
+    height: 120px;
     padding-top: 5px;
 }
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 1.8em;
+    font-size: 2.1em;
     margin-bottom: 10px;
-    padding-top: 8px;
+    padding-top: 10px;
     text-shadow: 4px 4px 10px black;
 }
 header > p {
@@ -159,7 +159,7 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
     list-style-type: '\2714\00A0';
-    margin-left: 20px;
+    margin-left: 10px;
 }
 footer {
     background-color: var(--cor5);
